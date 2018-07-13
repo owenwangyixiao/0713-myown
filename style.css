@@ -1,0 +1,28 @@
+.highlight {
+   background-color: yellow;
+}
+
+
+
+.warning{
+   color: red;
+}
+
+
+.highlight.warning{
+   font-size: 9rem;
+}
+
+
+.bold{
+   font-weight: 600;
+}
+
+h2+div{
+   border: 3px dashed pink;
+   border-radius: 80%;
+}
+
+div:not(#container){
+   height: 100px;
+}
