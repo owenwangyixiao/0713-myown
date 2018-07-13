@@ -26,3 +26,8 @@ h2+div{
 div:not(#container){
    height: 100px;
 }
+
+#sticky {
+   position:sticky;
+   top:10px;
+}
