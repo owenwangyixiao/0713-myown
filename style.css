@@ -1,0 +1,11 @@
+.color-red{
+   color: red;
+}
+
+.highlight-yellow{
+   background-color: yellow;
+}
+
+.color-red,.highlight-yellow{
+   font-size: 4rem;
+}
